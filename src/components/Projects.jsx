@@ -1,4 +1,3 @@
-```jsx
 function Projects() {
   const projects = [
     {
@@ -45,11 +44,7 @@ function Projects() {
     const rotateY = (x / rect.width - 0.5) * 6;
     const rotateX = (y / rect.height - 0.5) * -6;
 
-    card.style.transform = `
-      translateY(-8px)
-      rotateX(${rotateX}deg)
-      rotateY(${rotateY}deg)
-    `;
+    card.style.transform = `translateY(-8px) rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
   };
 
   const handleLeave = (event) => {
@@ -104,4 +99,3 @@ function Projects() {
 }
 
 export default Projects;
-```
