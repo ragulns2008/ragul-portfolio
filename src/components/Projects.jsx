@@ -18,12 +18,11 @@ function Projects() {
     },
     {
       number: "03",
-      title: "Machi Music",
+      title: "Modern Music Player Application",
       description:
         "A modern music player application.",
       tech: "React • Vite • Android",
-      visual: "MUSIC",
-    },
+      visual: "MUSIC",    },
     {
       number: "04",
       title: "Gym Fee Management System",
