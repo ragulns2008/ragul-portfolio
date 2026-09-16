@@ -29,6 +29,15 @@ function Contact() {
           >
             Call Me ↗
           </a>
+
+          <a
+            href="https://wa.me/919486511342"
+            target="_blank"
+            rel="noreferrer"
+            className="social-link"
+          >
+            WhatsApp Me ↗
+          </a>
         </div>
 
         <div className="contact-info">
