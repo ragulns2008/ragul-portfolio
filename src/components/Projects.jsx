@@ -1,3 +1,4 @@
+```jsx
 function Projects() {
   const projects = [
     {
@@ -18,11 +19,19 @@ function Projects() {
     },
     {
       number: "03",
-      title: "A modern music player application",
+      title: "Machi Music",
       description:
-        "A modern music player application with local music library, search, playlists, favorites and audio controls.",
+        "A modern music player application.",
       tech: "React • Vite • Android",
       visual: "MUSIC",
+    },
+    {
+      number: "04",
+      title: "Gym Fee Management System",
+      description:
+        "A system designed to manage gym memberships, fees and member records.",
+      tech: "Python • Database",
+      visual: "GYM",
     },
   ];
 
@@ -95,3 +104,4 @@ function Projects() {
 }
 
 export default Projects;
+```
