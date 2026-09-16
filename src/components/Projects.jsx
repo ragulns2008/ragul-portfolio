@@ -18,7 +18,7 @@ function Projects() {
     },
     {
       number: "03",
-      title: "Machi Music",
+      title: "A modern music player application",
       description:
         "A modern music player application with local music library, search, playlists, favorites and audio controls.",
       tech: "React • Vite • Android",
